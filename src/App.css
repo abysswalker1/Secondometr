@@ -1,0 +1,21 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-block-start: 0;
+  margin-block-end: 0;
+
+}
+
+.app-timebar {
+  font-size: 45px;
+  text-align: start;
+  width: 210px;
+}

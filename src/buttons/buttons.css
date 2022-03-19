@@ -1,0 +1,15 @@
+.app-buttons {
+    margin-top: 20px;
+    width: 170px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.app-buttons-btn {
+    background: none;
+    border: 1px solid black;
+    border-radius: 50px;
+    padding: 10px;
+    font-size: 20px;
+    line-height: 0;
+}
